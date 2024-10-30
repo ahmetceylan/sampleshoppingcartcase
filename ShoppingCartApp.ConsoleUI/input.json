@@ -1,0 +1,78 @@
+[
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 1,
+      "categoryId": 3004,
+      "sellerId": 2001,
+      "price": 2500.50,
+      "quantity": 1
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 2,
+      "categoryId": 1001,
+      "sellerId": 3002,
+      "price": 4500.99,
+      "quantity": 2
+    }
+  },
+  {
+    "command": "addVasItemToItem",
+    "payload": {
+      "itemId": 2,
+      "vasItemId": 101,
+      "vasCategoryId": 3242,
+      "vasSellerId": 5003,
+      "price": 200.00,
+      "quantity": 1
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 3,
+      "categoryId": 7889,
+      "sellerId": 4001,
+      "price": 100.00,
+      "quantity": 3
+    }
+  },
+  {
+    "command": "removeItem",
+    "payload": {
+      "itemId": 2
+    }
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 4,
+      "categoryId": 3003,
+      "sellerId": 1003,
+      "price": 999.99,
+      "quantity": 1
+    }
+  },
+  {
+    "command": "displayCart"
+  },
+  {
+    "command": "resetCart"
+  },
+  {
+    "command": "addItem",
+    "payload": {
+      "itemId": 4,
+      "categoryId": 3003,
+      "sellerId": 1003,
+      "price": 999.99,
+      "quantity": 1
+    }
+  },
+  {
+    "command": "displayCart"
+  }
+]

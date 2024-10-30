@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ShoppingCartApp.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ShoppingCartApp.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ShoppingCartApp.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingCartApp.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ShoppingCartApp.Domain/ShoppingCartApp.Domain.csproj",
+      "msbuildProject": "../ShoppingCartApp.Domain/ShoppingCartApp.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ShoppingCartApp.Domain >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/ahmetceylan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/ahmetceylan/projects/playground/trendyol-test-cases/shopping-cart/ShoppingCartApp.Application/ShoppingCartApp.Application.csproj",
+      "projectName": "ShoppingCartApp.Application",
+      "projectPath": "/Users/ahmetceylan/projects/playground/trendyol-test-cases/shopping-cart/ShoppingCartApp.Application/ShoppingCartApp.Application.csproj",
+      "packagesPath": "/Users/ahmetceylan/.nuget/packages/",
+      "outputPath": "/Users/ahmetceylan/projects/playground/trendyol-test-cases/shopping-cart/ShoppingCartApp.Application/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/ahmetceylan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/ahmetceylan/projects/playground/trendyol-test-cases/shopping-cart/ShoppingCartApp.Domain/ShoppingCartApp.Domain.csproj": {
+              "projectPath": "/Users/ahmetceylan/projects/playground/trendyol-test-cases/shopping-cart/ShoppingCartApp.Domain/ShoppingCartApp.Domain.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

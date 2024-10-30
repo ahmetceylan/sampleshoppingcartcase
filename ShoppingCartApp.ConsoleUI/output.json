@@ -1,0 +1,103 @@
+{
+  "result": true,
+  "message": "Item added successfully"
+}
+{
+  "result": true,
+  "message": "Item added successfully"
+}
+{
+  "result": true,
+  "message": "Vas item added successfully"
+}
+{
+  "result": true,
+  "message": "Item added successfully"
+}
+{
+  "result": true,
+  "message": "Item removed successfully"
+}
+{
+  "result": true,
+  "message": "Item added successfully"
+}
+{
+  "result": true,
+  "message": {
+    "Items": [
+      {
+        "VasItems": [],
+        "ItemId": 1,
+        "CategoryId": 3004,
+        "SellerId": 2001,
+        "Price": 2500.5,
+        "Quantity": 1
+      },
+      {
+        "ItemId": 3,
+        "CategoryId": 7889,
+        "SellerId": 4001,
+        "Price": 100.0,
+        "Quantity": 3
+      },
+      {
+        "VasItems": [],
+        "ItemId": 4,
+        "CategoryId": 3003,
+        "SellerId": 1003,
+        "Price": 999.99,
+        "Quantity": 1
+      }
+    ],
+    "TotalAmount": 3750.49,
+    "AppliedPromotionId": 1232,
+    "TotalDiscount": 250.0
+  }
+}
+{
+  "result": true,
+  "message": "Cart reset successfully finished"
+}
+{
+  "result": true,
+  "message": "Item added successfully"
+}
+{
+  "result": true,
+  "message": {
+    "Items": [
+      {
+        "VasItems": [],
+        "ItemId": 4,
+        "CategoryId": 3003,
+        "SellerId": 1003,
+        "Price": 999.99,
+        "Quantity": 1
+      }
+    ],
+    "TotalAmount": 749.99,
+    "AppliedPromotionId": 1232,
+    "TotalDiscount": 250.0
+  }
+}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":"Vas item added successfully"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":"Item removed successfully"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":{"Items":[{"VasItems":[],"ItemId":1,"CategoryId":3004,"SellerId":2001,"Price":2500.5,"Quantity":1},{"ItemId":3,"CategoryId":7889,"SellerId":4001,"Price":100.0,"Quantity":3},{"VasItems":[],"ItemId":4,"CategoryId":3003,"SellerId":1003,"Price":999.99,"Quantity":1}],"TotalAmount":3750.49,"AppliedPromotionId":1232,"TotalDiscount":250.0}}
+{"result":true,"message":"Cart reset successfully finished"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":{"Items":[{"VasItems":[],"ItemId":4,"CategoryId":3003,"SellerId":1003,"Price":999.99,"Quantity":1}],"TotalAmount":749.99,"AppliedPromotionId":1232,"TotalDiscount":250.0}}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":"Vas item added successfully"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":"Item removed successfully"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":{"Items":[{"VasItems":[],"ItemId":1,"CategoryId":3004,"SellerId":2001,"Price":2500.5,"Quantity":1},{"ItemId":3,"CategoryId":7889,"SellerId":4001,"Price":100.0,"Quantity":3},{"VasItems":[],"ItemId":4,"CategoryId":3003,"SellerId":1003,"Price":999.99,"Quantity":1}],"TotalAmount":3750.49,"AppliedPromotionId":1232,"TotalDiscount":250.0}}
+{"result":true,"message":"Cart reset successfully finished"}
+{"result":true,"message":"Item added successfully"}
+{"result":true,"message":{"Items":[{"VasItems":[],"ItemId":4,"CategoryId":3003,"SellerId":1003,"Price":999.99,"Quantity":1}],"TotalAmount":749.99,"AppliedPromotionId":1232,"TotalDiscount":250.0}}

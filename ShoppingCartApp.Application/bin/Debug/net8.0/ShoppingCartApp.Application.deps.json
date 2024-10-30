@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ShoppingCartApp.Application/1.0.0": {
+        "dependencies": {
+          "ShoppingCartApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ShoppingCartApp.Application.dll": {}
+        }
+      },
+      "ShoppingCartApp.Domain/1.0.0": {
+        "runtime": {
+          "ShoppingCartApp.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ShoppingCartApp.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShoppingCartApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

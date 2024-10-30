@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="011b791e-f9da-4766-860f-2867e4826b3f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/AddItemCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/AddItemCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/PromotionServiceTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/PromotionServiceTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/RemoveItemCommandHandlerTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/RemoveItemCommandHandlerTests.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/TrendyolShoppingCartApp.Application.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/TrendyolShoppingCartApp.Application.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.Tests.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Application.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Application.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Application.Tests.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Application.Tests.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application.Tests/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/AddItemCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/AddItemCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/AddVasItemToItemCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/AddVasItemToItemCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/DisplayCartCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/DisplayCartCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/RemoveItemCommandHandler.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/RemoveItemCommandHandler.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Services/CartService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Services/CartService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Services/PromotionService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Services/PromotionService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/TrendyolShoppingCartApp.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/TrendyolShoppingCartApp.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/TrendyolShoppingCartApp.Application.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/TrendyolShoppingCartApp.ConsoleUI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/TrendyolShoppingCartApp.ConsoleUI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Application.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/input.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/TrendyolShoppingCartApp.ConsoleUI.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.ConsoleUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.ConsoleUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/output.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/output.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Cart.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Cart.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/BaseItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/BaseItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/DefaultItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/DefaultItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/DigitalItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/DigitalItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/VasItem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Item/VasItem.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Promotion/CategoryPromotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Promotion/CategoryPromotion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Promotion/SameSellerPromotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Promotion/SameSellerPromotion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Promotion/TotalPricePromotion.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Promotion/TotalPricePromotion.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/TrendyolShoppingCartApp.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/TrendyolShoppingCartApp.Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/ValueObjects/Discount.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/ValueObjects/Discount.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/bin/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/TrendyolShoppingCartApp.Domain.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Domain.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/rider.project.model.nuget.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/Class1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/Class1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/TrendyolShoppingCartApp.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/TrendyolShoppingCartApp.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/bin/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/models/DisplayCartJsonCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/models/DisplayCartJsonCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/models/ResetCartJsonCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/models/ResetCartJsonCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/TrendyolShoppingCartApp.Infrastructure.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/ref/TrendyolShoppingCartApp.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/Debug/net8.0/refint/TrendyolShoppingCartApp.Infrastructure.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/services/FileService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/services/FileService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrendyolShoppingCartApp.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrendyolShoppingCartApp.dir/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JSON File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.nuget/packages/xunit.runner.visualstudio/2.8.2/build/net6.0/input.json" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TrendyolShoppingCartApp.Application/Handlers/AddItemCommandHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.Application/Handlers/AddItemCommandHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.Application/Handlers/AddItemCommandHandler.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.Application/obj/project.assets.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TrendyolShoppingCartApp.ConsoleUI/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/input.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/input.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/input.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/input.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/input.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/input.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.ConsoleUI/input.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Cart.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.Domain/Entities/Cart.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.Domain/Entities/Cart.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TrendyolShoppingCartApp.Domain/Entities/Promotion/CategoryPromotion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp.Domain/Entities/Promotion/CategoryPromotion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../TrendyolShoppingCartApp.Infrastructure/models/AddItemJsonCommand.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/ahmetceylan/projects/playground/trendyol-test-cases/case/Ahmet-Ceylan/TrendyolShoppingCartApp/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2mTZVGZxlxjZFmN7lUJ7tJXcTO3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/ahmetceylan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/ahmetceylan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/ahmetceylan/Library/Application Support/Symbols/src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="011b791e-f9da-4766-860f-2867e4826b3f" name="Changes" comment="" />
+      <created>1727102548579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727102548579</updated>
+      <workItem from="1727102549736" duration="872000" />
+      <workItem from="1727103441132" duration="3900000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial project structure">
+      <option name="closed" value="true" />
+      <created>1727103634456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727103634456</updated>
+    </task>
+    <task id="LOCAL-00002" summary="read and parse input json file">
+      <option name="closed" value="true" />
+      <created>1727108147482</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727108147482</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="initial project structure" />
+    <MESSAGE value="read and parse input json file" />
+    <option name="LAST_COMMIT_MESSAGE" value="read and parse input json file" />
+  </component>
+</project>

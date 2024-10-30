@@ -1,0 +1,16 @@
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/bin/Debug/net8.0/ShoppingCartApp.Application.deps.json
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/bin/Debug/net8.0/ShoppingCartApp.Application.dll
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/bin/Debug/net8.0/ShoppingCartApp.Application.pdb
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/bin/Debug/net8.0/ShoppingCartApp.Domain.dll
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/bin/Debug/net8.0/ShoppingCartApp.Domain.pdb
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.csproj.AssemblyReference.cache
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.AssemblyInfoInputs.cache
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.AssemblyInfo.cs
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.csproj.CoreCompileInputs.cache
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.sourcelink.json
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/.EE61C305.Up2Date
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.dll
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/refint/ShoppingCartApp.Application.dll
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ShoppingCartApp.Application.pdb
+/Users/ahmetceylan/projects/playground/-test-cases/case/Ahmet-Ceylan/ShoppingCartApp.Application/obj/Debug/net8.0/ref/ShoppingCartApp.Application.dll

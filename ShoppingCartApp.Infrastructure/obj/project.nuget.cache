@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhndDHBKCLOiv+OfKVAZNi8JmhygBFDyfDMeEtwUOS4BS2yvT9Q1K1K5x5VueZ4BNsKyKVdknjdD7q2O1zoOCQ==",
+  "success": true,
+  "projectFilePath": "/Users/ahmetceylan/projects/playground/trendyol-test-cases/shopping-cart/ShoppingCartApp.Infrastructure/ShoppingCartApp.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/ahmetceylan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
